@@ -1,6 +1,6 @@
 == README
 
-The README file is changed here to show a change.
+Making another change to the README file to show a change in "branch-1"
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
